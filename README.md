@@ -23,7 +23,7 @@ Matplotlib — for plotting expense and income graphs
 
 🚀 Getting Started
 1. Clone the Repository
-git clone https://github.com/your-username/personal-expense-tracker.git
+git clone https://github.com/Rupanjansaha123/personal-expense-tracker.git
 cd personal-expense-tracker
 
 2. Install Dependencies
